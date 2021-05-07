@@ -12,6 +12,3 @@ Mobile application `https://github.com/c19trace/mobile-app-v2`
 Back-end server `https://github.com/c19trace/backend-server-v2`
 
 Demonstration can be found at `https://www.youtube.com/watch?v=hqNgXJJZB9g`
-
-
-[![](http://img.youtube.com/vi/hqNgXJJZB9g/0.jpg)](http://www.youtube.com/watch?v=hqNgXJJZB9g "C19Trace")
